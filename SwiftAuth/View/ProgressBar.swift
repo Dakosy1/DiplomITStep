@@ -7,13 +7,13 @@ struct ProgressBar: View {
     var body: some View {
         ZStack {
             Circle()
-                .stroke(lineWidth: 20.0)
+                .stroke(lineWidth: 7.0)
                 .opacity(0.20)
                 .foregroundColor(Color.gray)
 
             Circle()
                 .trim(from: 0.0, to: CGFloat(min(self.progress, 1.0)))
-                .stroke(style: StrokeStyle(lineWidth: 12.0, lineCap: .round, lineJoin: .round))
+                .stroke(style: StrokeStyle(lineWidth: 7.0, lineCap: .round, lineJoin: .round))
                 .foregroundColor(color)
                 .rotationEffect(Angle(degrees: 270))
                 .animation(.easeOut(duration: 2.0), value: self.progress)

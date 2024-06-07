@@ -18,7 +18,7 @@ struct RandomWordView: View {
 
                     ZStack{
                         Text("Car")
-                            .font(.system(size: 26, weight: .thin))
+                            .font(.system(size: 40, weight: .thin))
                             .opacity(isShowTranslate ? 1 : 0)
                         Button {
                             withAnimation {

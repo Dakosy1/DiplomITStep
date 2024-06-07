@@ -30,6 +30,45 @@
 		3D6E632E2C0D26B500635469 /* ButtonView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6E632D2C0D26B500635469 /* ButtonView1.swift */; };
 		3D6E63302C0D27FC00635469 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6E632F2C0D27FC00635469 /* ProgressBar.swift */; };
 		3D6E63322C0DFFD100635469 /* Chapter1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6E63312C0DFFD100635469 /* Chapter1.swift */; };
+		3D6E63382C0F38FF00635469 /* 003-taa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63342C0F38FF00635469 /* 003-taa.mp3 */; };
+		3D6E63392C0F38FF00635469 /* 004-tha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63352C0F38FF00635469 /* 004-tha.mp3 */; };
+		3D6E633A2C0F38FF00635469 /* 001-alif.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63362C0F38FF00635469 /* 001-alif.mp3 */; };
+		3D6E633B2C0F38FF00635469 /* ba.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63372C0F38FF00635469 /* ba.mp3 */; };
+		3D6E63552C0F3F1700635469 /* 017-dhaa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E633C2C0F3F1600635469 /* 017-dhaa.mp3 */; };
+		3D6E63562C0F3F1700635469 /* 013-sheen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E633D2C0F3F1600635469 /* 013-sheen.mp3 */; };
+		3D6E63572C0F3F1700635469 /* 014-saad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E633E2C0F3F1600635469 /* 014-saad.mp3 */; };
+		3D6E63582C0F3F1700635469 /* 023-laam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E633F2C0F3F1600635469 /* 023-laam.mp3 */; };
+		3D6E63592C0F3F1700635469 /* 025-noon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63402C0F3F1600635469 /* 025-noon.mp3 */; };
+		3D6E635A2C0F3F1700635469 /* 019-ghain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63412C0F3F1600635469 /* 019-ghain.mp3 */; };
+		3D6E635B2C0F3F1700635469 /* 028-hamza.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63422C0F3F1600635469 /* 028-hamza.mp3 */; };
+		3D6E635C2C0F3F1700635469 /* 010-raa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63432C0F3F1600635469 /* 010-raa.mp3 */; };
+		3D6E635D2C0F3F1700635469 /* 012-seen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63442C0F3F1600635469 /* 012-seen.mp3 */; };
+		3D6E635E2C0F3F1700635469 /* 005-jeem.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63452C0F3F1600635469 /* 005-jeem.mp3 */; };
+		3D6E635F2C0F3F1700635469 /* 015-dhaad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63462C0F3F1600635469 /* 015-dhaad.mp3 */; };
+		3D6E63602C0F3F1700635469 /* 011-jaa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63472C0F3F1600635469 /* 011-jaa.mp3 */; };
+		3D6E63612C0F3F1700635469 /* 020-faa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63482C0F3F1600635469 /* 020-faa.mp3 */; };
+		3D6E63622C0F3F1700635469 /* 026-waw.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63492C0F3F1600635469 /* 026-waw.mp3 */; };
+		3D6E63632C0F3F1700635469 /* 009-dhal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E634A2C0F3F1600635469 /* 009-dhal.mp3 */; };
+		3D6E63642C0F3F1700635469 /* 021-qaaf.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E634B2C0F3F1600635469 /* 021-qaaf.mp3 */; };
+		3D6E63652C0F3F1700635469 /* 029-yaa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E634C2C0F3F1600635469 /* 029-yaa.mp3 */; };
+		3D6E63662C0F3F1700635469 /* 008-dal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E634D2C0F3F1600635469 /* 008-dal.mp3 */; };
+		3D6E63672C0F3F1700635469 /* 024-meem.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E634E2C0F3F1600635469 /* 024-meem.mp3 */; };
+		3D6E63682C0F3F1700635469 /* 007-khaa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E634F2C0F3F1600635469 /* 007-khaa.mp3 */; };
+		3D6E63692C0F3F1700635469 /* 018-ain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63502C0F3F1600635469 /* 018-ain.mp3 */; };
+		3D6E636A2C0F3F1700635469 /* 016-toa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63512C0F3F1600635469 /* 016-toa.mp3 */; };
+		3D6E636B2C0F3F1700635469 /* 022-kaaf.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63522C0F3F1600635469 /* 022-kaaf.mp3 */; };
+		3D6E636C2C0F3F1700635469 /* 006-haa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63532C0F3F1700635469 /* 006-haa.mp3 */; };
+		3D6E636D2C0F3F1700635469 /* 027-ha.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63542C0F3F1700635469 /* 027-ha.mp3 */; };
+		3D6E63722C10000600635469 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6E63712C10000600635469 /* CardView.swift */; };
+		3D6E63762C100AC300635469 /* WhatsYourName.mov in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E63752C100AC300635469 /* WhatsYourName.mov */; };
+		3D6E63792C100D3900635469 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6E63782C100D3900635469 /* Card.swift */; };
+		3D6E637B2C1011AE00635469 /* HowAreUFrom.mov in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E637A2C1011AE00635469 /* HowAreUFrom.mov */; };
+		3D6E637D2C1011BF00635469 /* WhereRUFrom.mov in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E637C2C1011BF00635469 /* WhereRUFrom.mov */; };
+		3D6E637F2C10141100635469 /* ThankYou.mov in Resources */ = {isa = PBXBuildFile; fileRef = 3D6E637E2C10141100635469 /* ThankYou.mov */; };
+		3D6E63812C101A4000635469 /* MatchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6E63802C101A4000635469 /* MatchViewModel.swift */; };
+		3D6E638A2C106DA600635469 /* WordItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6E63892C106DA600635469 /* WordItem.swift */; };
+		3D6E638E2C106DEF00635469 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 3D6E638D2C106DEF00635469 /* RealmSwift */; };
+		3D6E63922C10A2B800635469 /* FlipCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6E63912C10A2B800635469 /* FlipCard.swift */; };
 		3DD622172C06991800F0E864 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3DD622162C06991800F0E864 /* GoogleService-Info.plist */; };
 		3DD6221A2C069D8400F0E864 /* MainPageCourseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD622192C069D8400F0E864 /* MainPageCourseView.swift */; };
 		3DD6221C2C069E6800F0E864 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD6221B2C069E6800F0E864 /* AppView.swift */; };
@@ -40,6 +79,19 @@
 		3DD622292C06D3DF00F0E864 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD622282C06D3DF00F0E864 /* ListView.swift */; };
 		3DFFBACF2C07349B0036D1BD /* RandomWordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFFBACE2C07349B0036D1BD /* RandomWordView.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3D6E63902C106FF800635469 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		0FB0A4062B9DAF0200B92DAA /* SwiftAuth.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftAuth.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,6 +114,44 @@
 		3D6E632D2C0D26B500635469 /* ButtonView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView1.swift; sourceTree = "<group>"; };
 		3D6E632F2C0D27FC00635469 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 		3D6E63312C0DFFD100635469 /* Chapter1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter1.swift; sourceTree = "<group>"; };
+		3D6E63342C0F38FF00635469 /* 003-taa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "003-taa.mp3"; sourceTree = "<group>"; };
+		3D6E63352C0F38FF00635469 /* 004-tha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "004-tha.mp3"; sourceTree = "<group>"; };
+		3D6E63362C0F38FF00635469 /* 001-alif.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "001-alif.mp3"; sourceTree = "<group>"; };
+		3D6E63372C0F38FF00635469 /* ba.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ba.mp3; sourceTree = "<group>"; };
+		3D6E633C2C0F3F1600635469 /* 017-dhaa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "017-dhaa.mp3"; sourceTree = "<group>"; };
+		3D6E633D2C0F3F1600635469 /* 013-sheen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "013-sheen.mp3"; sourceTree = "<group>"; };
+		3D6E633E2C0F3F1600635469 /* 014-saad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "014-saad.mp3"; sourceTree = "<group>"; };
+		3D6E633F2C0F3F1600635469 /* 023-laam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "023-laam.mp3"; sourceTree = "<group>"; };
+		3D6E63402C0F3F1600635469 /* 025-noon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "025-noon.mp3"; sourceTree = "<group>"; };
+		3D6E63412C0F3F1600635469 /* 019-ghain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "019-ghain.mp3"; sourceTree = "<group>"; };
+		3D6E63422C0F3F1600635469 /* 028-hamza.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "028-hamza.mp3"; sourceTree = "<group>"; };
+		3D6E63432C0F3F1600635469 /* 010-raa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "010-raa.mp3"; sourceTree = "<group>"; };
+		3D6E63442C0F3F1600635469 /* 012-seen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "012-seen.mp3"; sourceTree = "<group>"; };
+		3D6E63452C0F3F1600635469 /* 005-jeem.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "005-jeem.mp3"; sourceTree = "<group>"; };
+		3D6E63462C0F3F1600635469 /* 015-dhaad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "015-dhaad.mp3"; sourceTree = "<group>"; };
+		3D6E63472C0F3F1600635469 /* 011-jaa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "011-jaa.mp3"; sourceTree = "<group>"; };
+		3D6E63482C0F3F1600635469 /* 020-faa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "020-faa.mp3"; sourceTree = "<group>"; };
+		3D6E63492C0F3F1600635469 /* 026-waw.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "026-waw.mp3"; sourceTree = "<group>"; };
+		3D6E634A2C0F3F1600635469 /* 009-dhal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "009-dhal.mp3"; sourceTree = "<group>"; };
+		3D6E634B2C0F3F1600635469 /* 021-qaaf.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "021-qaaf.mp3"; sourceTree = "<group>"; };
+		3D6E634C2C0F3F1600635469 /* 029-yaa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "029-yaa.mp3"; sourceTree = "<group>"; };
+		3D6E634D2C0F3F1600635469 /* 008-dal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "008-dal.mp3"; sourceTree = "<group>"; };
+		3D6E634E2C0F3F1600635469 /* 024-meem.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "024-meem.mp3"; sourceTree = "<group>"; };
+		3D6E634F2C0F3F1600635469 /* 007-khaa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "007-khaa.mp3"; sourceTree = "<group>"; };
+		3D6E63502C0F3F1600635469 /* 018-ain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "018-ain.mp3"; sourceTree = "<group>"; };
+		3D6E63512C0F3F1600635469 /* 016-toa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "016-toa.mp3"; sourceTree = "<group>"; };
+		3D6E63522C0F3F1600635469 /* 022-kaaf.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "022-kaaf.mp3"; sourceTree = "<group>"; };
+		3D6E63532C0F3F1700635469 /* 006-haa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "006-haa.mp3"; sourceTree = "<group>"; };
+		3D6E63542C0F3F1700635469 /* 027-ha.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "027-ha.mp3"; sourceTree = "<group>"; };
+		3D6E63712C10000600635469 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		3D6E63752C100AC300635469 /* WhatsYourName.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = WhatsYourName.mov; sourceTree = "<group>"; };
+		3D6E63782C100D3900635469 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		3D6E637A2C1011AE00635469 /* HowAreUFrom.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = HowAreUFrom.mov; sourceTree = "<group>"; };
+		3D6E637C2C1011BF00635469 /* WhereRUFrom.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = WhereRUFrom.mov; sourceTree = "<group>"; };
+		3D6E637E2C10141100635469 /* ThankYou.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ThankYou.mov; sourceTree = "<group>"; };
+		3D6E63802C101A4000635469 /* MatchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchViewModel.swift; sourceTree = "<group>"; };
+		3D6E63892C106DA600635469 /* WordItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordItem.swift; sourceTree = "<group>"; };
+		3D6E63912C10A2B800635469 /* FlipCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipCard.swift; sourceTree = "<group>"; };
 		3DD622162C06991800F0E864 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		3DD622192C069D8400F0E864 /* MainPageCourseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageCourseView.swift; sourceTree = "<group>"; };
 		3DD6221B2C069E6800F0E864 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
@@ -78,6 +168,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D6E638E2C106DEF00635469 /* RealmSwift in Frameworks */,
 				0FB6C9B62BA57F0800336216 /* FirebaseAuth in Frameworks */,
 				0FB6C9BC2BA57F0800336216 /* FirebaseStorage in Frameworks */,
 				0FB6C9B82BA57F0800336216 /* FirebaseFirestore in Frameworks */,
@@ -107,6 +198,7 @@
 		0FB0A4082B9DAF0200B92DAA /* SwiftAuth */ = {
 			isa = PBXGroup;
 			children = (
+				3D6E63742C100AA200635469 /* Video */,
 				0FB0A41D2B9DAFA200B92DAA /* App */,
 				0FB0A41C2B9DAF9F00B92DAA /* Components */,
 				0FB0A41A2B9DAF9700B92DAA /* Core */,
@@ -115,6 +207,7 @@
 				0FB0A4172B9DAF4600B92DAA /* View */,
 				0FB0A40D2B9DAF0300B92DAA /* Assets.xcassets */,
 				3DD622162C06991800F0E864 /* GoogleService-Info.plist */,
+				3D6E63332C0F38EB00635469 /* Audios */,
 				0FB0A40F2B9DAF0300B92DAA /* Preview Content */,
 			);
 			path = SwiftAuth;
@@ -138,10 +231,12 @@
 				3DD622262C06D1AC00F0E864 /* AlphabetLearnerButtonView.swift */,
 				3D6E632D2C0D26B500635469 /* ButtonView1.swift */,
 				3D6E63312C0DFFD100635469 /* Chapter1.swift */,
+				3D6E63712C10000600635469 /* CardView.swift */,
 				3D6E632F2C0D27FC00635469 /* ProgressBar.swift */,
 				3DD622192C069D8400F0E864 /* MainPageCourseView.swift */,
 				3D6E63292C0D076900635469 /* MainPageCourse.swift */,
 				3D068B5D2C0AF1730049CE9C /* AddNewWordView.swift */,
+				3D6E63912C10A2B800635469 /* FlipCard.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -152,6 +247,8 @@
 				0FB6C9B02BA497E600336216 /* User.swift */,
 				3DD622242C06CC9200F0E864 /* ArabicAlphabetModel.swift */,
 				3D6E632B2C0D0C5A00635469 /* ProgressModel.swift */,
+				3D6E63782C100D3900635469 /* Card.swift */,
+				3D6E63892C106DA600635469 /* WordItem.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -226,11 +323,59 @@
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
+		3D6E63332C0F38EB00635469 /* Audios */ = {
+			isa = PBXGroup;
+			children = (
+				3D6E63362C0F38FF00635469 /* 001-alif.mp3 */,
+				3D6E63372C0F38FF00635469 /* ba.mp3 */,
+				3D6E63342C0F38FF00635469 /* 003-taa.mp3 */,
+				3D6E63352C0F38FF00635469 /* 004-tha.mp3 */,
+				3D6E63452C0F3F1600635469 /* 005-jeem.mp3 */,
+				3D6E63532C0F3F1700635469 /* 006-haa.mp3 */,
+				3D6E634F2C0F3F1600635469 /* 007-khaa.mp3 */,
+				3D6E634D2C0F3F1600635469 /* 008-dal.mp3 */,
+				3D6E634A2C0F3F1600635469 /* 009-dhal.mp3 */,
+				3D6E63432C0F3F1600635469 /* 010-raa.mp3 */,
+				3D6E63472C0F3F1600635469 /* 011-jaa.mp3 */,
+				3D6E63442C0F3F1600635469 /* 012-seen.mp3 */,
+				3D6E633D2C0F3F1600635469 /* 013-sheen.mp3 */,
+				3D6E633E2C0F3F1600635469 /* 014-saad.mp3 */,
+				3D6E63462C0F3F1600635469 /* 015-dhaad.mp3 */,
+				3D6E63512C0F3F1600635469 /* 016-toa.mp3 */,
+				3D6E633C2C0F3F1600635469 /* 017-dhaa.mp3 */,
+				3D6E63502C0F3F1600635469 /* 018-ain.mp3 */,
+				3D6E63412C0F3F1600635469 /* 019-ghain.mp3 */,
+				3D6E63482C0F3F1600635469 /* 020-faa.mp3 */,
+				3D6E634B2C0F3F1600635469 /* 021-qaaf.mp3 */,
+				3D6E63522C0F3F1600635469 /* 022-kaaf.mp3 */,
+				3D6E633F2C0F3F1600635469 /* 023-laam.mp3 */,
+				3D6E634E2C0F3F1600635469 /* 024-meem.mp3 */,
+				3D6E63402C0F3F1600635469 /* 025-noon.mp3 */,
+				3D6E63492C0F3F1600635469 /* 026-waw.mp3 */,
+				3D6E63542C0F3F1700635469 /* 027-ha.mp3 */,
+				3D6E63422C0F3F1600635469 /* 028-hamza.mp3 */,
+				3D6E634C2C0F3F1600635469 /* 029-yaa.mp3 */,
+			);
+			path = Audios;
+			sourceTree = "<group>";
+		};
+		3D6E63742C100AA200635469 /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				3D6E63752C100AC300635469 /* WhatsYourName.mov */,
+				3D6E637A2C1011AE00635469 /* HowAreUFrom.mov */,
+				3D6E637C2C1011BF00635469 /* WhereRUFrom.mov */,
+				3D6E637E2C10141100635469 /* ThankYou.mov */,
+			);
+			path = Video;
+			sourceTree = "<group>";
+		};
 		3DD6221F2C06C7F100F0E864 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 				3DD622222C06C83F00F0E864 /* AlphabetViewModel.swift */,
 				3D068B5F2C0AFF1D0049CE9C /* ListViewModel.swift */,
+				3D6E63802C101A4000635469 /* MatchViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -245,6 +390,7 @@
 				0FB0A4022B9DAF0200B92DAA /* Sources */,
 				0FB0A4032B9DAF0200B92DAA /* Frameworks */,
 				0FB0A4042B9DAF0200B92DAA /* Resources */,
+				3D6E63902C106FF800635469 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -256,6 +402,7 @@
 				0FB6C9B72BA57F0800336216 /* FirebaseFirestore */,
 				0FB6C9B92BA57F0800336216 /* FirebaseFirestoreSwift */,
 				0FB6C9BB2BA57F0800336216 /* FirebaseStorage */,
+				3D6E638D2C106DEF00635469 /* RealmSwift */,
 			);
 			productName = SwiftAuth;
 			productReference = 0FB0A4062B9DAF0200B92DAA /* SwiftAuth.app */;
@@ -287,6 +434,7 @@
 			mainGroup = 0FB0A3FD2B9DAF0200B92DAA;
 			packageReferences = (
 				0FB6C9B42BA57F0800336216 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				3D6E63842C106C1B00635469 /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
 			productRefGroup = 0FB0A4072B9DAF0200B92DAA /* Products */;
 			projectDirPath = "";
@@ -302,9 +450,42 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D6E63592C0F3F1700635469 /* 025-noon.mp3 in Resources */,
 				0FB0A4112B9DAF0300B92DAA /* Preview Assets.xcassets in Resources */,
 				0FB0A40E2B9DAF0300B92DAA /* Assets.xcassets in Resources */,
 				3DD622172C06991800F0E864 /* GoogleService-Info.plist in Resources */,
+				3D6E63652C0F3F1700635469 /* 029-yaa.mp3 in Resources */,
+				3D6E63392C0F38FF00635469 /* 004-tha.mp3 in Resources */,
+				3D6E635E2C0F3F1700635469 /* 005-jeem.mp3 in Resources */,
+				3D6E635D2C0F3F1700635469 /* 012-seen.mp3 in Resources */,
+				3D6E63632C0F3F1700635469 /* 009-dhal.mp3 in Resources */,
+				3D6E635C2C0F3F1700635469 /* 010-raa.mp3 in Resources */,
+				3D6E63662C0F3F1700635469 /* 008-dal.mp3 in Resources */,
+				3D6E63672C0F3F1700635469 /* 024-meem.mp3 in Resources */,
+				3D6E635F2C0F3F1700635469 /* 015-dhaad.mp3 in Resources */,
+				3D6E63622C0F3F1700635469 /* 026-waw.mp3 in Resources */,
+				3D6E636A2C0F3F1700635469 /* 016-toa.mp3 in Resources */,
+				3D6E637F2C10141100635469 /* ThankYou.mov in Resources */,
+				3D6E635B2C0F3F1700635469 /* 028-hamza.mp3 in Resources */,
+				3D6E637B2C1011AE00635469 /* HowAreUFrom.mov in Resources */,
+				3D6E636B2C0F3F1700635469 /* 022-kaaf.mp3 in Resources */,
+				3D6E636C2C0F3F1700635469 /* 006-haa.mp3 in Resources */,
+				3D6E633A2C0F38FF00635469 /* 001-alif.mp3 in Resources */,
+				3D6E63552C0F3F1700635469 /* 017-dhaa.mp3 in Resources */,
+				3D6E63642C0F3F1700635469 /* 021-qaaf.mp3 in Resources */,
+				3D6E63612C0F3F1700635469 /* 020-faa.mp3 in Resources */,
+				3D6E635A2C0F3F1700635469 /* 019-ghain.mp3 in Resources */,
+				3D6E636D2C0F3F1700635469 /* 027-ha.mp3 in Resources */,
+				3D6E633B2C0F38FF00635469 /* ba.mp3 in Resources */,
+				3D6E637D2C1011BF00635469 /* WhereRUFrom.mov in Resources */,
+				3D6E63572C0F3F1700635469 /* 014-saad.mp3 in Resources */,
+				3D6E63382C0F38FF00635469 /* 003-taa.mp3 in Resources */,
+				3D6E63762C100AC300635469 /* WhatsYourName.mov in Resources */,
+				3D6E63582C0F3F1700635469 /* 023-laam.mp3 in Resources */,
+				3D6E63602C0F3F1700635469 /* 011-jaa.mp3 in Resources */,
+				3D6E63682C0F3F1700635469 /* 007-khaa.mp3 in Resources */,
+				3D6E63562C0F3F1700635469 /* 013-sheen.mp3 in Resources */,
+				3D6E63692C0F3F1700635469 /* 018-ain.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,16 +506,21 @@
 				3D6E632E2C0D26B500635469 /* ButtonView1.swift in Sources */,
 				3DD622232C06C83F00F0E864 /* AlphabetViewModel.swift in Sources */,
 				3DD6221E2C06C5AF00F0E864 /* AlphabetView.swift in Sources */,
+				3D6E638A2C106DA600635469 /* WordItem.swift in Sources */,
+				3D6E63792C100D3900635469 /* Card.swift in Sources */,
 				0FB0A4242B9DB66900B92DAA /* InputView.swift in Sources */,
 				3DD622292C06D3DF00F0E864 /* ListView.swift in Sources */,
 				0FB0A4282BA360AE00B92DAA /* RegistrationView.swift in Sources */,
 				0FB0A40C2B9DAF0200B92DAA /* ContentView.swift in Sources */,
+				3D6E63922C10A2B800635469 /* FlipCard.swift in Sources */,
 				3D6E632C2C0D0C5A00635469 /* ProgressModel.swift in Sources */,
+				3D6E63812C101A4000635469 /* MatchViewModel.swift in Sources */,
 				3DD6221A2C069D8400F0E864 /* MainPageCourseView.swift in Sources */,
 				3D068B5E2C0AF1730049CE9C /* AddNewWordView.swift in Sources */,
 				0FB0A40A2B9DAF0200B92DAA /* SwiftAuthApp.swift in Sources */,
 				3D6E632A2C0D076900635469 /* MainPageCourse.swift in Sources */,
 				0FB6C9C02BA581B800336216 /* AuthViewModel.swift in Sources */,
+				3D6E63722C10000600635469 /* CardView.swift in Sources */,
 				3DD622272C06D1AC00F0E864 /* AlphabetLearnerButtonView.swift in Sources */,
 				0FB0A42A2BA361BF00B92DAA /* ButtonView.swift in Sources */,
 				0FB6C9B12BA497E600336216 /* User.swift in Sources */,
@@ -557,6 +743,14 @@
 				minimumVersion = 10.22.1;
 			};
 		};
+		3D6E63842C106C1B00635469 /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -579,6 +773,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 0FB6C9B42BA57F0800336216 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseStorage;
+		};
+		3D6E638D2C106DEF00635469 /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3D6E63842C106C1B00635469 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

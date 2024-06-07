@@ -21,14 +21,21 @@ struct AppView: View {
                     .tag("Main")
                 AlphabetView()
                     .tag("Alphabet")
-                ListView()
-                    .environmentObject(listViewModel)
-                    .padding(.horizontal, 15)
+
+//                ListView()
+//                    .environmentObject(listViewModel)
+//                    .padding(.horizontal, 15)
+//                    .tag("Flashcards")
+                RandomWordView()
                     .tag("Flashcards")
+
                 ProfileView()
                    .environmentObject(viewModel)
                     .tag("Profile")
             }
+            .padding(.bottom, 65)
+
+            
             
             if listViewModel.isShowAddView{
                 AddNewWordView()

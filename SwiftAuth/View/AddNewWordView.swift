@@ -1,10 +1,14 @@
 import SwiftUI
+import RealmSwift
 
 struct AddNewWordView: View {
     
     @State var newWord = ""
     @State var wordTranslate = ""
     @State var wordDescription = ""
+    @State var showAlert = false
+//    @State var
+    
     @EnvironmentObject var listViewModel: ListViewModel
     @Environment(\.presentationMode) var presentationMode
 
@@ -52,9 +56,10 @@ struct AddNewWordView: View {
                     .padding(.top, 23)
                     .padding(.leading, 3)
                 HStack{
-                    Rectangle()
-                        .opacity(0)
+                    TextEditor(text: $wordDescription)
                         .frame(height: 90)
+                        .colorMultiply(Color("GRAY"))
+                        .autocorrectionDisabled()
                 }
                 .padding(.vertical, 13)
                 .padding(.horizontal, 23)
@@ -64,7 +69,21 @@ struct AddNewWordView: View {
             
             Spacer()
             Button{
-                listViewModel.isShowAddView.toggle()
+//                listViewModel.isShowAddView.toggle()
+                if newWord.count == 0,
+                   wordTranslate.count == 0{
+                    showAlert.toggle()
+                }else{
+                    let word = WordItem()
+                    word.mainWord = newWord
+                    word.wordDescription = wordDescription
+                    word.wordTranslate = wordTranslate
+                    
+//                    $wordItems.append(word)
+//                    withAnimation{
+//                        listViewModel.isShowAddView.toggle()
+//                    }
+                }
             } label: {
                 Text("Save")
                     .padding(.vertical, 13)
@@ -73,11 +92,16 @@ struct AddNewWordView: View {
                     .foregroundColor(.white)
                     .clipShape(Capsule())
             }
+            .alert(Text("Empty fields"), isPresented: $showAlert, actions: {})
         }
 //        .edgesIgnoringSafeArea(.all)
         .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
         .padding(15)
         .background(Color(.white))
+    }
+    
+    func isEmpty(){
+        
     }
 }
 
